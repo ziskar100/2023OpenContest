@@ -16,57 +16,36 @@ REusink
 Λίστα προτεινόμενου εξοπλισμού:
 
 Τα προτεινόμενα υλικά είναι τα παρακάτω:
+
 -Arduino UNO (X1)
 
+-Arduino Nano (X1)
 
--Robot Smart Car 2WD (Χ2)
+-Load cell (Χ1)
 
--Dual Motor Driver Module L298N (Χ1)
+-HX711 Load cell Amplifier Module (Χ1)
 
--Waveshare Ανιχνευτής Ακολουθίας Γραμμής - 5-Channels (Χ2)
+-I2C LCD 16X2 – I2C Compatible (Χ1)
 
--Rocker Switch ON-ON DPDT 15A/250VAC - Medium Black (Χ2)
+-1k resistor -2 Nos (Χ1)
 
--Πλαστική Διπλή Θήκη για Μπαταρίες 18650 (Χ2)
+-LEDs -2Nos
 
--Μπαταρία Λιθίου 18650 3.7V - 2600mAh XTAR (Χ4)
+-Buzzer (Χ1)
 
--Metal Gearmotor 25mm - 30 RPM 6V (Χ1) (κινητήρας για την παραγωγή ηλεκτρικής ενέργειας)
+-Common PCB (Χ1)
 
--Round Magnet - 8x2mm (X18)
+-7.4V battery (Χ1)
 
--Μυτοτσίμπιδο 160mm - Workpro
+LM7805 voltage regulator (Χ1)
 
 -Κατσαβίδια Ηλεκτρονικών Set 6τμχ. PK-2062
 
--Alligator Clip 28mm for Soldering - Black
-
 -Μονωτική Ταινία PVC 15mm 10m - Πακέτο 10 Χρωμάτων
-
--L293D Motor Driver Shield - Expansion Board For Arduino (Χ2)
 
 -9v Battery Holder With On/Off Power Switch (Χ2)
 
--Four Channel Infrared Detector Sensor For Arduino (Χ2)
-
 -VARTA 4922 ΑΛΚΑΛΙΚΗ LONGLIFE POWER - 9V (Χ4)
-
--1x Filament for 3D Printer
- 
-Τα περιβάλλοντα που χρησιμοποιήθηκαν είναι τα παρακάτω:
-
--Περιβάλλον προγραμματισμού Arduino IDE 1.8.12(ελεύθερο λογισμικό)
-
--Περιβάλλον τεμαχισμού (slicing) αντικειμένων Cura (τελευταία έκδοση, ελεύθερο λογισμικό)
-
--Περιβάλλον σχεδιασμού αντικειμένων https://www.blockscad3d.com/ (online ελεύθερο λογισμικό)
-
--Περιβάλλοντα συνεργασίας μεταξύ των μελών: Discord και Google Drive.
-
-Τα εργαλεία που χρησιμοποιήθηκαν είναι τα παρακάτω:
-
--Κολλητήρι, Πιστόλι Θερμοκόλλησης με ράβδους σιλικόνης, κατσαβίδια, κόφτης καλωδίων, μυτοτσίμπιδο, ψηφιακό παχύμετρο, γυαλόχαρτο, κόφτης πλαστικών, δραπανοκατσάβιδο
-Σε κάθε φάκελο υπάρχει ένα αντίστοιχο Readme όπου εξηγούνται τα περιεχόμενα το φακέλου αυτού.
 
 © 2022 GitHub, Inc.
 Terms
