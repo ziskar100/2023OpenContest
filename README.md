@@ -37,7 +37,7 @@ REusink
 
 -7.4V battery (Χ1)
 
-LM7805 voltage regulator (Χ1)
+-LM7805 voltage regulator (Χ1)
 
 -Κατσαβίδια Ηλεκτρονικών Set 6τμχ. PK-2062
 
