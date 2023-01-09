@@ -18,6 +18,7 @@ REusink
 Τα προτεινόμενα υλικά είναι τα παρακάτω:
 -Arduino UNO (X1)
 
+
 -Robot Smart Car 2WD (Χ2)
 
 -Dual Motor Driver Module L298N (Χ1)
